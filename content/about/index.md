@@ -15,6 +15,8 @@ no_comments = true
 
 Более подробно про меня в моем [резюме](https://github.com/j4hongir/certs/blob/main/resume/ru.pdf)
 
+[rss](https://xpltt.vercel.app/rss.xml) · [atom](https://xpltt.vercel.app/atom.xml)
+
 доп ссылки: 
 
 [email](mailto:jahamarsi@gmail.com) · [telegram](https://t.me/xpltt) · [github](https://github.com/j4hongir/) · [habr](https://habr.com/ru/users/xpltt/) · [monkeytype](https://monkeytype.com/profile/gruvboxx)
