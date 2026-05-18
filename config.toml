@@ -6,8 +6,8 @@ generate_robots_txt = true
 generate_feeds = true
 feed_filenames = ["rss.xml", "atom.xml"]  
 
-title = "eac"
-description = "experience as code"
+# title = "eac"
+# description = "experience as code"
 default_language = "ru"
 theme = "prism"
 
@@ -39,7 +39,8 @@ math = true
 
 # background_gradient = "#282828"
 #background_image = "https://raw.githubusercontent.com/Jahamars/blog/refs/heads/main/static/photos/1.jpeg"
-background_image = "https://raw.githubusercontent.com/Jahamars/blog/refs/heads/main/static/photos/3.jpg"
+# background_image = "https://raw.githubusercontent.com/Jahamars/blog/refs/heads/main/static/photos/3.jpg"
+background_image = "https://raw.githubusercontent.com/j4hongir/wayland/refs/heads/main/walls/nasa.png"
 
 date_format = "%d.%m.%Y"
 
