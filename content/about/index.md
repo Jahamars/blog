@@ -13,9 +13,9 @@ no_comments = true
 
 Здесь я документирую всё полезное из своего опыта (блог открыт для соавторства [pr](https://github.com/j4hongir/blog?tab=contributing-ov-file))
 
-Более подробно про меня в моем [резюме](https://github.com/j4hongir/certs/blob/main/resume/ru.pdf)
+Более подробно про меня в моем [резюме](https://github.com/j4hongir/certs/blob/main/resume/DevOps-RU.pdf)
 
-[rss](https://xpltt.vercel.app/rss.xml) · [atom](https://xpltt.vercel.app/atom.xml)
+[rss](https://jahongir.ru/rss.xml) · [atom](https://jahongir.ru/atom.xml)
 
 доп ссылки: 
 
