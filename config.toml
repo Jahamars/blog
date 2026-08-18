@@ -37,9 +37,9 @@ show_toc = true
 math = true
 
 
-# background_gradient = "#282828"
+background_gradient = "#1d2021"
 #background_image = "https://raw.githubusercontent.com/Jahamars/blog/refs/heads/main/static/photos/1.jpeg"
-background_image = "https://raw.githubusercontent.com/Jahamars/blog/refs/heads/main/static/photos/3.jpg"
+# background_image = "https://raw.githubusercontent.com/Jahamars/blog/refs/heads/main/static/photos/3.jpg"
 # background_image = "https://raw.githubusercontent.com/j4hongir/wayland/refs/heads/main/walls/cnassa.png"
 
 date_format = "%d.%m.%Y"
