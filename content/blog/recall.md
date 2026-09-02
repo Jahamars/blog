@@ -202,6 +202,6 @@ OCR работает не идеально. На тёмных темах с ма
 Папка со скриншотами со временем разрастается. Можно поставить ротацию через systemd timer или cron удалять что старше N дней. Или просто иногда чистить руками.
 
 
-скрипты у меня на гитхабе https://github.com/Jahamars/wayland
-- https://github.com/Jahamars/wayland/blob/main/scripts/ssearch.sh - поиск 
-- https://github.com/Jahamars/wayland/blob/main/scripts/screen.sh - скриншот с OCR
+скрипты у меня на гитхабе https://github.com/j4hongir/wayland
+- https://github.com/j4hongir/wayland/blob/main/scripts/ssearch.sh - поиск 
+- https://github.com/j4hongir/wayland/blob/main/scripts/screen.sh - скриншот с OCR
